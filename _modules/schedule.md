@@ -7,6 +7,9 @@ Jan 6
 : [Course Introduction](https://github.com/aritter/CS-7650-sp25/raw/master/slides/lec1-intro.pdf)
   : [Eisenstein Chapter 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
+Jan 10
+: [Problem Set 0](https://colab.research.google.com/drive/1AC0BWfWFsA4zItqXalK9ZKKTPyzTe83K?usp=sharing) due
+
 <!---
 
 Aug 21
