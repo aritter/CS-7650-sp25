@@ -10,6 +10,9 @@ Jan 6
 Jan 10
 : [Problem Set 0](https://github.com/aritter/CS-7650-sp25/raw/master/slides/pset0.pdf) due (submit via Gradescope)
 
+Jan 23
+: [Project 0](https://colab.research.google.com/drive/1AC0BWfWFsA4zItqXalK9ZKKTPyzTe83K?usp=sharing) due
+
 <!---
 
 Aug 21
