@@ -33,15 +33,16 @@ Feb 5
 Feb 12
 : Guest Lecture: [Jacob Andreas](https://www.mit.edu/~jda/) (MIT) - 12pm in the Coda Atrium
 
+Feb 17
+: [Word Embeddings](https://aritter.github.io/CS-7650-sp25/slides/lec7-nn2.pdf)
+  : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M Chapter 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
+
 <!---
 
 Sep 5
 : [Project 0 Due](https://colab.research.google.com/drive/1aPoOYPZWRtNsZWjp66hTAHy21WiLXJ2Y#scrollTo=TTsQ9OXO2VaP)
 
 
-Sep 25
-: [Word Embeddings](https://aritter.github.io/CS-7650-sp25/slides/lec7-nn2.pdf)
-  : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M Chapter 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
 
 Oct 7
 : [Recurrent Neural Networks](https://aritter.github.io/CS-7650-sp25/slides/lec8-nn3.pdf)
