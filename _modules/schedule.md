@@ -37,19 +37,17 @@ Feb 17
 : [Word Embeddings](https://aritter.github.io/CS-7650-sp25/slides/lec7-nn2.pdf)
   : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M Chapter 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
 
+Feb 19
+: [Recurrent Neural Networks](https://aritter.github.io/CS-7650-sp25/slides/lec8-nn3.pdf) and [Course Projects](https://aritter.github.io/CS-7650-sp25/slides/course_project.pdf)
+  : [J+M 9.2, 9.4, 9.5, 9.6](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
 <!---
 
 Sep 5
 : [Project 0 Due](https://colab.research.google.com/drive/1aPoOYPZWRtNsZWjp66hTAHy21WiLXJ2Y#scrollTo=TTsQ9OXO2VaP)
 
-
-
-Oct 7
-: [Recurrent Neural Networks](https://aritter.github.io/CS-7650-sp25/slides/lec8-nn3.pdf)
-  : [J+M 9.2, 9.4, 9.5, 9.6](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
-
 Oct 16
-: [Convolutional Neural Networks and Neural CRFs](https://aritter.github.io/CS-7650-sp25/slides/lec9-nn4.pdf) and [Course Projects](https://aritter.github.io/CS-7650-sp25/slides/course_project.pdf)
+: [Convolutional Neural Networks and Neural CRFs](https://aritter.github.io/CS-7650-sp25/slides/lec9-nn4.pdf) 
   : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Oct 21
