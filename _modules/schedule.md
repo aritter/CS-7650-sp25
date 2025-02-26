@@ -45,12 +45,12 @@ Feb 24
 : [Convolutional Neural Networks and Neural CRFs](https://aritter.github.io/CS-7650-sp25/slides/lec9-nn4.pdf) 
   : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
-<!---
-
-
-Oct 21
+Feb 26
 : [Machine Translation, Encoder-Decoder Networks and Attention](https://aritter.github.io/CS-7650-sp25/slides/lec11-seqseq2.pdf)
   : [Eisenstein 18.3 -  18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+<!---
+
 
 Oct 30
 : [MT, Transformers](https://aritter.github.io/CS-7650-sp25/slides/lec12-mt2.pdf)
