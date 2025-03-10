@@ -53,11 +53,11 @@ Mar 5
 : [MT, Transformers](https://aritter.github.io/CS-7650-sp25/slides/lec12-mt2.pdf)
   : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 10.6](https://web.stanford.edu/~jurafsky/slp3/10.pdf)
 
-<!---
-
-Nov 6
+Mar 10
 : [Pre-training, BERT](https://aritter.github.io/CS-7650-sp25/slides/lec13-bert.pdf)
   : [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
+
+<!---
 
 Nov 18
 : [Pre-training (cont), BART, T5, GPT-3](https://aritter.github.io/CS-7650-sp25/slides/lec14-bart_gpt3.pdf)
