@@ -2,7 +2,6 @@
 title: Schedule
 ---
 
-
 Jan 6
 : [Course Introduction](https://github.com/aritter/CS-7650-sp25/raw/master/slides/lec1-intro.pdf)
   : [Eisenstein Chapter 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
@@ -57,7 +56,7 @@ Mar 10
 : [Pre-training, BERT](https://aritter.github.io/CS-7650-sp25/slides/lec13-bert.pdf)
   : [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
 
-<!---
+<!--
 
 Nov 18
 : [Pre-training (cont), BART, T5, GPT-3](https://aritter.github.io/CS-7650-sp25/slides/lec14-bart_gpt3.pdf)
@@ -66,7 +65,6 @@ Nov 18
 Nov 20
 : Mike Lewis Guest Lecture (Note: this is not at the usual time or location - see announcement on Piazza)
   : [The Llama 3 Herd of Models](https://arxiv.org/pdf/2407.21783)
-
 
 Oct 30
 
