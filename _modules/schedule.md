@@ -56,6 +56,13 @@ Mar 24
 : [Pre-training (cont), BART, T5, GPT-3](https://aritter.github.io/CS-7650-sp25/slides/lec14-bart_gpt3.pdf)
   : [BART](https://aclanthology.org/2020.acl-main.703.pdf), [T5](https://www.jmlr.org/papers/volume21/20-074/20-074.pdf), [GPT-3](https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
 
+Apr 2
+: [Open Source LLMs](https://aritter.github.io/CS-7650-sp25/slides/lec16-open-source-models.pdf)
+  : [Llama3](https://arxiv.org/pdf/2407.21783)
+
+Apr 7
+: No Class
+
 <!--
 
 Nov 20
