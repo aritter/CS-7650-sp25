@@ -60,8 +60,12 @@ Apr 2
 : [Open Source LLMs](https://aritter.github.io/CS-7650-sp25/slides/lec16-open_source_models.pdf)
   : [Llama3](https://arxiv.org/pdf/2407.21783)
 
-Apr 7
-: No Class
+Apr 9
+: [Alignment / RLHF](https://aritter.github.io/CS-7650-sp25/slides/lec17-RLHF.pdf)
+  : [InstructGPT](https://arxiv.org/abs/2203.02155), [DPO](https://arxiv.org/abs/2305.18290)
+
+Apr 14
+: Wrapup / Ethics
 
 <!--
 
