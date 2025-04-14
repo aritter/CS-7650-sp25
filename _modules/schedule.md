@@ -65,7 +65,7 @@ Apr 9
   : [InstructGPT](https://arxiv.org/abs/2203.02155), [DPO](https://arxiv.org/abs/2305.18290)
 
 Apr 14
-: Wrapup / Ethics
+: [Wrapup / Ethics](https://aritter.github.io/CS-7650-sp25/slides/lec18-wrapup_ethics.pdf)
 
 <!--
 
