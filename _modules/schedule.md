@@ -67,6 +67,9 @@ Apr 9
 Apr 14
 : [Wrapup / Ethics](https://aritter.github.io/CS-7650-sp25/slides/lec18-wrapup_ethics.pdf)
 
+Apr 16 (2pm)
+: Guest Lecture by [Elizabeth Clark](https://eaclark07.github.io/) (Google AI).  See announcement on Piazza for Zoom link.
+
 <!--
 
 Nov 20
